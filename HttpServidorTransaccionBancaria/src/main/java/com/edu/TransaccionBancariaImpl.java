@@ -31,7 +31,7 @@ public class TransaccionBancariaImpl implements TransaccionBancaria {
 		}
 		else{
 			System.out.println("Saldo insuficiente");
-			return "Transaccion Fallida Saldo  insufuciente";
+			return "Transaccion Fallida Saldo  insufuciente. ";
 		}
 		
 		
